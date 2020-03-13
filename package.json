@@ -1,0 +1,16 @@
+{
+  "name": "js-audits",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalu/js-audits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chalu/js-audits/issues"
+  },
+  "homepage": "https://github.com/chalu/js-audits#readme"
+}
