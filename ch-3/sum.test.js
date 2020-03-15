@@ -1,4 +1,4 @@
-import sum from '../src/sum';
+import sum from '../../src/sum';
 
 describe('secures the bag', () => {
   test('can handle edge cases', () => {
